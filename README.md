@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Linkedin](www.linkedin.com/in/sebastian-gallegos-frías-747aab295)
+[Linkedin](https://www.linkedin.com/in/sebastian-gallegos-frías-747aab295)
 
 <!--
 **SebaGallegos/SebaGallegos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
